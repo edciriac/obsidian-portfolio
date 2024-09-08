@@ -19,8 +19,10 @@ import pt from "./locales/pt-BR"
 import hu from "./locales/hu-HU"
 import fa from "./locales/fa-IR"
 import pl from "./locales/pl-PL"
+import fi from "./locales/fi-FI"
 
 export const TRANSLATIONS = {
+  "fi-FI": fi,
   "en-US": enUs,
   "en-GB": enGb,
   "fr-FR": fr,
